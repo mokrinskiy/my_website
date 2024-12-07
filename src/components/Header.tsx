@@ -9,7 +9,7 @@ const Header = () => {
             <div>
                 <Link href="/">
                     <Button className="text-white" variant={"link"}>
-                        <h1 className="text-[20px] uppercase font-thin max-md:text-[15px]">
+                        <h1 className="text-[20px] uppercase max-md:text-[15px]">
                             Mokrinskiy
                         </h1>
                     </Button>

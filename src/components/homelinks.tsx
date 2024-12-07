@@ -16,7 +16,7 @@ const HomeLinks = () => {
                     }`}
                     variant={"link"}
                 >
-                    <h1 className="text-[20px] uppercase font-thin max-md:text-[15px]">
+                    <h1 className="text-[20px] uppercase max-md:text-[15px]">
                         Portraits
                     </h1>
                 </Button>
@@ -28,7 +28,7 @@ const HomeLinks = () => {
                     }`}
                     variant={"link"}
                 >
-                    <h1 className="text-[20px] uppercase font-thin max-md:text-[15px]">
+                    <h1 className="text-[20px] uppercase max-md:text-[15px]">
                         Landscapes
                     </h1>
                 </Button>
